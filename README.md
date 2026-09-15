@@ -49,7 +49,7 @@ Antes de executar o projeto, é necessário ter instalado:
 1.  Clone o repositório:
 
 ``` bash
-git clone https://github.com/Carloshipol/challenge_iniflex.git
+git clone https://github.com/Carloshipol/challenge-java-funcionarios.git
 ```
 
 2.  Abra na IDE de sua preferência (Eclipse, IntelliJ, etc)
